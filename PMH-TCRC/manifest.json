@@ -1,0 +1,10 @@
+{
+    "name": "TCRC",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "any"
+        }
+    ]
+}
